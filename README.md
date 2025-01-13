@@ -27,3 +27,20 @@ We use 3 datasets in our work: Tmall, Jdata, and Beibei. Preprocessed data are i
 You can train the model by running `python src/main.py`.
 You can change the hyperparameters by modifying the arguments of `main.py`.
 Also, you can run a demo script `demo.sh` that reproduces the experimental results of MBA in Beibei dataset.
+
+## Reference
+If you use this code, please cite the following paper.
+```shell
+@article{journal.pone.0314282,
+    author = {Doyeon Kim and 
+              Saurav Tanwar and 
+              U Kang},
+    journal = {PLOS ONE},
+    publisher = {Public Library of Science},
+    title = {Accurate multi-behavior sequence-aware recommendation via graph convolution networks},
+    year = {2025},
+    month = {01},
+    volume = {20},
+    pages = {1-19}
+}
+```
