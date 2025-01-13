@@ -1,0 +1,12 @@
+torch==1.9.0
+tensorboard==2.11.2
+tqdm==4.66.1
+torch_scatter==2.0.7
+torch_geometric==2.0.2
+torch_sparse==0.6.10
+pandas==2.0.3
+scipy==1.11.2
+numpy==1.23.2
+loguru==0.7.0
+setuptools==59.5.0
+six==1.16.0
