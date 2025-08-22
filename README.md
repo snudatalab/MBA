@@ -28,7 +28,7 @@ You can train the model by running `python src/main.py`.
 You can change the hyperparameters by modifying the arguments of `main.py`.
 Also, you can run a demo script `demo.sh` that reproduces the experimental results of MBA in Beibei dataset.
 
-## Reference
+## Citation 
 If you use this code, please cite the following paper.
 ```shell
 @article{journal.pone.0314282,
